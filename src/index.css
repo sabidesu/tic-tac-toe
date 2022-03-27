@@ -1,6 +1,15 @@
+:root {
+	--dark_purple: #7b4b94;
+	--blue_purple: #7d82b8;
+	--mint: #b7e3cc;
+	--green_apple: #c4ffb2;
+	--yellow_green: #d6f7a3;
+}
+
 body {
 	font: 14px "Century Gothic", Futura, sans-serif;
 	margin: 20px;
+	background-color: ;
 }
 
 ol, ul {
