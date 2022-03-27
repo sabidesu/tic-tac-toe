@@ -29,7 +29,7 @@ ol, ul {
 
 .square {
 	background: var(--blue_purple);
-	border: 1px solid #999;
+	border: 2px solid var(--dark_purple);
 	float: left;
 	font-size: 24px;
 	font-weight: bold;
@@ -39,6 +39,7 @@ ol, ul {
 	margin-top: -1px;
 	padding: 0;
 	text-align: center;
+	color: var(--green_apple);
 	width: 34px;
 }
 
@@ -57,4 +58,5 @@ ol, ul {
 
 .game-info {
 	margin-left: 20px;
+	font-size: 1.5em;
 }
